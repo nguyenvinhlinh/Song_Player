@@ -153,14 +153,6 @@ public class SongPlayer extends Application {
             public void run() {
                 int w = player.getMedia().getWidth();
                 int h = player.getMedia().getHeight();
-                /*
-                 hbox.setMinWidth(w);
-                 int bandWidth = w/rects.length;
-                 for (Rectangle r:rects) {
-                 r.setWidth(bandWidth);
-                 r.setHeight(2);
-                 }
-                 */
                 stage.setMinWidth(w);
                 stage.setMinHeight(h);
                 vbox.setMinSize(w, 100);

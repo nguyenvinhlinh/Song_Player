@@ -21,7 +21,5 @@ id
 ---> this command will lauch a player which play file a.mp3 locating in
 /home/Link directory
 
-
-
-
-
+REFERENCES:
+http://docs.oracle.com/javafx/2/media/playercontrol.htm
