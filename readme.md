@@ -1,7 +1,5 @@
 Author: Nguyen Vinh Linh
-
 Date: August 18, 2014
-
 
 This is a media player which serve a main purpose to play media as a module of a
 main project.
